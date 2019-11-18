@@ -1,33 +1,28 @@
 ## API ClimaTempo - Só habilitar a localização que informará os seguintes dados:
-
-
-## Temperatura atual : Xº
-## Temperatura Maxima : Xº
-## Temperatura Minima : Xº
-## Pressão : X hpa
-## Umidade : X%
-
-<table border="1">
+<table>
   <tr>
     <th>Month</th>
     <th>Savings</th>
   </tr>
   <tr>
-    <td>Temperatura atual</td>
+    <td>Temperatura Atual</td>
     <td>Xº</td>
   </tr>
    <tr>
-    <td>January</td>
-    <td>$100</td>
+    <td>Temperatura Maxima</td>
+    <td>Xº</td>
   </tr>
-     <tr>
-    <td>January</td>
-    <td>$100</td>
-    
+  <tr>
+    <td>Temperatura Minima</td>
+    <td>Xº</td>
   </tr>
-     <tr>
-    <td>January</td>
-    <td>$100</td>
+  <tr>
+    <td>Pressão</td>
+    <td>X hpa</td>
+  </tr>
+  <tr>
+    <td>Umidade</td>
+    <td>X%</td>
   </tr>
 </table>
 
