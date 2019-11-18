@@ -2,7 +2,6 @@
 <table>
   <tr>
     <th>Month</th>
-    <th>Savings</th>
   </tr>
   <tr>
     <td>Temperatura Atual</td>
