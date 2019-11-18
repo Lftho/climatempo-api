@@ -1,7 +1,8 @@
 ## API ClimaTempo - Só habilitar a localização que informará os seguintes dados:
 <table>
   <tr>
-    <th>Month</th>
+    <th>Clima</th>
+    <th>Tempo</th>
   </tr>
   <tr>
     <td>Temperatura Atual</td>
@@ -24,9 +25,6 @@
     <td>X%</td>
   </tr>
 </table>
-
-
-
 
 ## Available Scripts
 
