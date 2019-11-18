@@ -13,8 +13,8 @@
     <th>Savings</th>
   </tr>
   <tr>
-    <td>January</td>
-    <td>$100</td>
+    <td>Temperatura atual</td>
+    <td>Xº</td>
   </tr>
    <tr>
     <td>January</td>
